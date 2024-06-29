@@ -1,2 +1,2 @@
 WARNING:
-All  variables, constants and comments in the .py files are written in Spanish.
+All  variables, constants, functions and comments in the .py files are written in Spanish.
